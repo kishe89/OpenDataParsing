@@ -141,3 +141,5 @@ Temporary Items
 
 # CSV dataset directory
 /csv/store/
+
+.idea/vcs.xml
